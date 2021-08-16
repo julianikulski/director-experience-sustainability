@@ -22,6 +22,11 @@ The code requires Python versions of 3.*, general libraries available through th
 ## Project Motivation and Description <a name="motivation"></a>
 Investors are more and more concerned with the sustainability and CSR of companies. Research suggests that better CSP leads to better financial performance of companies. Much research has been conducted on the antecedents of CSP. The board of directors is starting to attract more attention, especially the characteristics of individual directors and their link to CSP. The non-profit organization Ceres suggested in 2015, that directors with prior professional experience in CSR-related areas would lead to higher CSP. Thus, this master thesis dealt with the following research question: _Does the prior professional experience of directors in CSR-related areas positively affect the corporate social performance of companies?_
 
+To determine what types of professional experiences and areas would be considered socially- or environmentally-related, I used information from prior studies and rating agencies. The below image shows all accepted CSR-related activities, positions, and organizations used in this study.
+
+![Table of CSR-related activities](https://github.com/julianikulski/director-experience-sustainability/blob/main/static/img/list_csr_activities.PNG)
+
+
 
 ## File Description <a name="description"></a>
 This paragraph lists the names of all jupyter notebook files, their inputs and their outputs, as well as what the file does. Some of the files are not included in this public GitHub repo but they were still necessary to generate the analysis and results.
