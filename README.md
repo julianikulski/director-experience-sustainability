@@ -24,7 +24,7 @@ Investors are more and more concerned with the sustainability and CSR of compani
 
 To determine what types of professional experiences and areas would be considered socially- or environmentally-related, I used information from prior studies and rating agencies. The below image shows all accepted CSR-related activities, positions, and organizations used in this study.
 
-![Table of CSR-related activities](https://github.com/julianikulski/director-experience-sustainability/blob/main/static/img/list_csr_activities.png)
+![Table of CSR-related activities](https://github.com/julianikulski/director-experience-sustainability/blob/main/static/img/list_csr_activities_new.png)
 
 
 
